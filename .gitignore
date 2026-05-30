@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (large)
+data/*.csv
+
+# Saved models (large)
+models/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
