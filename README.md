@@ -140,8 +140,47 @@ yfinance API → Historical OHLCV Data
 ```
 
 ---
-
 ## 📸 Screenshots <a name="screenshots"></a>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-05-30 101143.png" alt="Dashboard Overview" width="800"/>
+  <br/><em>Dashboard Overview</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-05-30 101259.png" alt="Prophet Forecast" width="800"/>
+  <br/><em>Prophet Forecast with Confidence Intervals</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-05-30 101325.png" alt="LSTM Prediction" width="800"/>
+  <br/><em>LSTM Prediction Results</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-05-30 101403.png" alt="Model Comparison" width="800"/>
+  <br/><em>Prophet vs LSTM — Error Metrics Comparison</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-05-30 101437.png" alt="EDA Analysis" width="800"/>
+  <br/><em>Exploratory Data Analysis</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-05-30 101512.png" alt="Forecast Chart" width="800"/>
+  <br/><em>Interactive Forecast Chart</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-05-30 101710.png" alt="Stock Selection" width="800"/>
+  <br/><em>Stock Ticker Selection & Settings</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-05-30 101924.png" alt="Results Summary" width="800"/>
+  <br/><em>Results Summary</em>
+</p>
 
 
 
